@@ -7,8 +7,9 @@ import { Link, useNavigate } from "react-router-dom";
 
 const Register = () => {
 
-  const [state, setState] = useState<string>("");
+  
 
+  const [state, setState] = useState<string>("");
   const [error, setError] = useState<boolean>(false);
 
   const handleSubmit = (e: any) => {

@@ -1,5 +1,5 @@
 import { FaArrowDown, FaBarsProgress } from "react-icons/fa6";
-import pic from "../../assets/pix.jpg";
+import pic from "../../assets/775118.jpg";
 import { useDispatch, useSelector } from "react-redux";
 import SmallPiece from "./SmallPiece";
 import {
